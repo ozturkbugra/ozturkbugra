@@ -36,10 +36,8 @@ I am a **Computer Programming** graduate from Ankara University, currently focus
 
 ### 📊 GitHub Stats
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ozturkbugra&show_icons=true&theme=dark&hide_border=true" alt="Bugra's Github Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozturkbugra&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
+![Bugra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozturkbugra&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozturkbugra&layout=compact&theme=dark&hide_border=true)
 
 ---
 [<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/bugra-ozturk-678505202/)
